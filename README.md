@@ -1,6 +1,6 @@
 # Machine Learning for Master's in CS and AIS at University of Trento
 
-Official repository for the lab sessions of the *Machine Learning* course (Academic Year 2025/2026), taught by Prof. Andrea Passerini at the University of Trento.
+Official repository for the lab sessions of the *Machine Learning* course (Academic Year 2026/2027), taught by Prof. Andrea Passerini at the University of Trento.
 
 ---
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ### Local environment inside the repository (optional)
 
-To keep everything inside the project folder, with its own Python interpreter, you can create a [conda](https://docs.conda.io) environment in `./.venv` (it is git-ignored):
+To keep everything inside the project folder, with its own Python interpreter, you can create a [conda](https://docs.conda.io) environment in `./.venv`:
 
 ```bash
 conda create -y -p ./.venv --override-channels -c conda-forge python=3.12 pip
