@@ -42,9 +42,11 @@ No local installation is required; everything runs in your browser.
 
 **1. Download the Material**
 
-Download or clone the course repository from:
+Download or clone the course repository from
 
 [https://github.com/steveazzolin/machine-learning-lab26-27](https://github.com/steveazzolin/machine-learning-lab26-27)
+
+and download `main.ipynb` from [Google Drive Folder](https://drive.google.com/file/d/16pydEj4tkuwo_7Wtvjx2z2e-SzjXlU9l/view?usp=sharing).
 
 ---
 
@@ -88,7 +90,7 @@ Once Jupyter starts, your browser will open automatically showing the current wo
 
 Locate and open the notebook file:
 
-**`scikit-learn.ipynb`**
+**`main.ipynb`**
 
 ![Jupyter file browser](imgs/jupyter.png)
 
