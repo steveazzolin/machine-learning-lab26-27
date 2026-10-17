@@ -11,7 +11,7 @@ author:
 - \href{https://samuelebortolotti.github.io/}{Samuele Bortolotti}
 - \href{https://steveazzolin.github.io/}{Steve Azzolin}
 date:
-- 12 November, 2025
+- 2026-2027
 lang: en
 section-titles:
 - false
@@ -32,7 +32,7 @@ fontsize:
 
 If you prefer to run the notebook in the cloud, use the `Google Colab` link provided in the repository or scan the QR code below.
 
-![QR code to open Colab](imgs/sklearn-qr.pdf){ height=1.5in }
+![QR code to open Colab](imgs/qr_sklearn.png){ height=1.5in }
 
 No local installation is required; everything runs in your browser.
 
@@ -44,7 +44,7 @@ No local installation is required; everything runs in your browser.
 
 Download or clone the course repository from:
 
-[https://github.com/samuelebortolotti/machine-learning-lab](https://github.com/samuelebortolotti/machine-learning-lab)
+[https://github.com/steveazzolin/machine-learning-lab26-27](https://github.com/steveazzolin/machine-learning-lab26-27)
 
 ---
 
@@ -66,10 +66,10 @@ pip install jupyter
 
 **3. Navigate to the Project Folder**
 
-Use the terminal to move into the `scikit` directory:
+Use the terminal to move into the `sklearn` directory:
 
 ```bash
-cd path/to/scikit
+cd path/to/sklearn
 ```
 
 Then launch Jupyter Notebook:
