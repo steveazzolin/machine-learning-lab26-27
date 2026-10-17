@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
 If using Google Colab, these libraries are typically preinstalled.
 
-All the lab materials and datasets are available at the following link: [Google Drive Folder](https://drive.google.com/drive/folders/1_a6gJX703CkBMVwVVgWP9cTQ80-4nOHS?usp=drive_link)
+The lab material is available at the following link: [Google Drive Folder](https://drive.google.com/file/d/16pydEj4tkuwo_7Wtvjx2z2e-SzjXlU9l/view?usp=sharing)
 
 To open the notebook in Google Colab:
 
@@ -48,7 +48,7 @@ To open the notebook in Google Colab:
 
 The accompanying lecture slides for this lab can be found here:
 
-[Scikit-learn Slides (PDF)](https://github.com/samuelebortolotti/machine-learning-lab/blob/master/slides/pdfs/sklearn.pdf)
+[Scikit-learn Slides (PDF)](https://github.com/steveazzolin/machine-learning-lab26-27/blob/master/slides/pdfs/sklearn.pdf)
 
 ---
 
