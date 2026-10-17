@@ -32,7 +32,7 @@ fontsize:
 
 If you prefer to run the notebook in the cloud, use the `Google Colab` link provided in the repository or scan the QR code below.
 
-![QR code to open Colab](imgs/qr_sklearn.png){ height=1.5in }
+![QR code to the repository](imgs/qr_sklearn.png){ height=1.5in }
 
 No local installation is required; everything runs in your browser.
 
